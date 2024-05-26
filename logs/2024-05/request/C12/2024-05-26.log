@@ -1,0 +1,12 @@
+2024-05-26T16:05:29.631Z
+REQUEST:POST /items - 
+Params:{}
+Query:{}
+payload:{"name":"vishvadatt update","mobile":9726999999,"company_id":12}
+
+2024-05-26T16:05:58.470Z
+REQUEST:GET /items/345 - 
+Params:{"id":"345"}
+Query:{}
+payload:{"name":"vishvadatt update","mobile":9726999999,"company_id":12}
+

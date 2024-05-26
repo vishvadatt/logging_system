@@ -1,0 +1,320 @@
+2024-05-25T11:56:53.735Z REQUEST:POST /
+2024-05-25T11:57:54.352Z REQUEST:POST /
+2024-05-25T11:59:14.161Z REQUEST:POST /
+2024-05-25T12:00:02.107Z REQUEST:POST /test
+2024-05-25T12:10:42.363Z REQUEST:GET /
+2024-05-25T12:10:42.367Z INFO:Root endpoint hit
+2024-05-25T12:11:13.609Z REQUEST:GET /error
+2024-05-25T12:11:13.610Z ERROR:error endpoint hit
+2024-05-25T12:12:00.123Z REQUEST:GET /debug
+2024-05-25T12:12:00.124Z DEBUG:debug endpoint hit
+2024-05-25T12:12:16.321Z REQUEST:GET /success
+2024-05-25T12:12:16.322Z SUCCESS:success endpoint hit
+2024-05-25T12:12:42.436Z REQUEST:GET /
+2024-05-25T12:12:42.436Z INFO:Root endpoint hit
+2024-05-25T12:12:42.626Z REQUEST:GET /favicon.ico
+2024-05-25T12:12:50.418Z REQUEST:GET /logs
+2024-05-25T12:12:59.739Z REQUEST:GET /static
+2024-05-25T12:13:07.830Z REQUEST:GET /static
+2024-05-25T12:13:21.832Z REQUEST:GET /static
+2024-05-25T12:13:24.394Z REQUEST:GET /static
+2024-05-25T12:13:35.218Z REQUEST:GET /static
+2024-05-25T12:24:57.403Z REQUEST:GET /logs
+2024-05-25T12:25:01.861Z REQUEST:GET /logs
+2024-05-25T12:25:14.189Z REQUEST:GET /logs
+2024-05-25T12:25:50.796Z REQUEST:GET /logs
+2024-05-25T12:25:50.818Z REQUEST:GET /logs/
+2024-05-25T12:26:05.244Z REQUEST:GET /logs/
+2024-05-25T12:27:10.858Z REQUEST:GET /logs/
+2024-05-25T12:27:43.115Z REQUEST:GET /logs/
+2024-05-25T12:28:02.482Z REQUEST:GET /logs/
+2024-05-25T13:32:35.986Z REQUEST:GET /logs/
+2024-05-25T13:32:38.081Z REQUEST:GET /logs/
+2024-05-25T13:32:52.197Z REQUEST:GET /logs/
+2024-05-25T13:34:19.077Z REQUEST:GET /logs/
+2024-05-25T13:34:29.546Z REQUEST:GET /logs/
+2024-05-25T13:34:36.264Z REQUEST:GET /logs/
+2024-05-25T13:34:40.163Z REQUEST:GET /
+2024-05-25T13:34:40.163Z INFO:Root endpoint hit
+2024-05-25T17:22:53.436Z REQUEST:GET /favicon.ico
+2024-05-25T17:23:37.991Z REQUEST:GET /
+2024-05-25T17:23:37.992Z INFO:Root endpoint hit
+2024-05-25T17:23:49.960Z REQUEST:GET /
+2024-05-25T17:23:49.964Z INFO:Root endpoint hit
+2024-05-25T17:24:12.677Z REQUEST:GET /
+2024-05-25T17:24:12.678Z INFO:Root endpoint hit
+2024-05-25T17:24:12.859Z REQUEST:GET /
+2024-05-25T17:24:12.859Z INFO:Root endpoint hit
+2024-05-25T17:24:24.968Z REQUEST:GET /
+2024-05-25T17:25:12.723Z REQUEST:GET /
+2024-05-25T17:25:31.857Z REQUEST:GET /
+2024-05-25T17:25:38.194Z REQUEST:GET /log/
+2024-05-25T17:37:54.579Z REQUEST:POST /test - payload:{"name":"vishvadatt","mobile":9726999999}
+2024-05-25T17:38:41.846Z REQUEST:POST /test - 
+ payload:{"name":"vishvadatt","mobile":9726999999}
+2024-05-25T17:39:16.168Z REQUEST:POST /test - 
+payload
+:{"name":"vishvadatt","mobile":9726999999}
+2024-05-25T17:39:59.114Z REQUEST:POST /test - 
+payload:
+{"name":"vishvadatt","mobile":9726999999}
+2024-05-25T17:42:30.029Z
+ REQUEST:POST /test - 
+payload:
+{"name":"vishvadatt","mobile":9726999999}
+2024-05-25T17:43:06.051Z
+REQUEST:POST /test - 
+payload:
+{"name":"vishvadatt","mobile":9726999999}
+2024-05-25T17:44:47.508Z
+REQUEST:POST /test - 
+payload:
+{"name":"vishvadatt update","mobile":9726999999}
+2024-05-26T10:33:27.763Z
+REQUEST:GET /items/123&color=black&size=medium - 
+Params:{"name":"vishvadatt update","mobile":9726999999}
+Query:{}payload:
+{}
+2024-05-26T10:33:27.768Z
+INFO:Item endpoint hit with the ID: 123&color=black&size=medium
+2024-05-26T10:42:59.151Z
+REQUEST:GET /items/123&color=black&size=medium - 
+Params:{"name":"vishvadatt update","mobile":9726999999}
+Query:{}payload:
+{}
+2024-05-26T10:42:59.152Z
+INFO:Item endpoint hit with the ID: 123&color=black&size=medium
+2024-05-26T10:43:41.027Z
+REQUEST:GET /items/123&color=black&size=medium - 
+Params:{"name":"vishvadatt update","mobile":9726999999}
+Query:{}
+payload:
+{}
+2024-05-26T10:43:41.030Z
+INFO:Item endpoint hit with the ID: 123&color=black&size=medium
+2024-05-26T10:44:06.055Z
+REQUEST:GET /items/123&color=black&size=medium - 
+Params:{"name":"vishvadatt update","mobile":9726999999}
+Query:{}
+payload:{}
+
+2024-05-26T10:44:06.058Z
+INFO:Item endpoint hit with the ID: 123&color=black&size=medium
+2024-05-26T10:46:37.839Z
+REQUEST:GET /items/123&color=black&size=medium - 
+Params:{"name":"vishvadatt update","mobile":9726999999}
+Query:{}
+payload:{}
+
+2024-05-26T10:46:37.846Z
+INFO:Item endpoint hit with the ID: 123&color=black&size=medium
+2024-05-26T10:47:08.369Z
+REQUEST:GET /items/123&color=black&size=medium - 
+Params:{}
+Query:{}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T10:47:08.374Z
+INFO:Item endpoint hit with the ID: 123&color=black&size=medium
+2024-05-26T10:47:25.517Z
+REQUEST:GET /items/123&color=black&size=medium - 
+Params:{}
+Query:{}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T10:47:25.522Z
+INFO:Item endpoint hit with the ID: 123&color=black&size=medium
+2024-05-26T10:48:04.088Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{"color":"black","size":"medium"}
+Query:{}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T10:48:04.089Z
+INFO:Item endpoint hit with the ID: 123
+2024-05-26T10:48:34.625Z
+INFO:Item endpoint hit with the ID: 123
+2024-05-26T10:48:34.621Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{}
+Query:{"color":"black","size":"medium"}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T10:51:20.412Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{"name":"vishvadatt update","mobile":9726999999}
+Query:{"color":"black","size":"medium"}
+payload:{}
+
+2024-05-26T10:51:20.417Z
+INFO:Item endpoint hit with the ID: 123
+2024-05-26T10:53:03.385Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{}
+Query:{"color":"black","size":"medium"}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T10:53:03.388Z
+INFO:Item endpoint hit with the ID: 123
+2024-05-26T10:53:42.487Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{}
+Query:{"color":"black","size":"medium"}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T10:53:42.491Z
+INFO:Item endpoint hit with the ID: 123
+2024-05-26T10:55:03.599Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{}
+Query:{"color":"black","size":"medium"}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T10:55:03.606Z
+INFO:Item endpoint hit with the ID: 123
+2024-05-26T10:59:06.581Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{}
+Query:{"color":"black","size":"medium"}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T10:59:06.585Z
+INFO:Item endpoint hit with the ID: [object Object]
+2024-05-26T11:00:15.587Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{}
+Query:{"color":"black","size":"medium"}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T11:00:15.592Z
+INFO:Item endpoint hit with the ID: {"id":"123"}
+2024-05-26T11:00:59.512Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:"{}"
+Query:{"color":"black","size":"medium"}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T11:00:59.518Z
+INFO:Item endpoint hit with the ID: {"id":"123"}
+2024-05-26T11:01:34.642Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:"{}"
+Query:{"color":"black","size":"medium"}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T11:01:34.648Z
+INFO:Item endpoint hit with the ID: {"id":"123"}
+2024-05-26T11:02:33.424Z
+REQUEST:GET /items/123 - 
+Params:"{}"
+Query:{}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T11:02:33.427Z
+INFO:Item endpoint hit with the ID: {"id":"123"}
+2024-05-26T11:04:48.346Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{}
+Query:{"color":"black","size":"medium"}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T11:04:48.352Z
+INFO:Item endpoint hit with the ID: {"id":"123"}
+2024-05-26T11:11:43.443Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:11:57.805Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:11:58.972Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:11:59.776Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:11:59.967Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:12:23.501Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:12:24.532Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:12:25.319Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:12:38.166Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:13:30.261Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:14:08.559Z
+REQUEST:GET /logs/ - 
+Params:{}
+Query:{}
+payload:{}
+
+2024-05-26T11:19:53.892Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{}
+Query:{"color":"black","size":"medium"}
+payload:{}
+
+2024-05-26T11:19:53.893Z
+INFO:Item endpoint hit with the ID: {"id":"123"}
+2024-05-26T11:27:11.559Z
+INFO:Item endpoint hit with the ID: {"id":"123"}
+2024-05-26T11:31:27.285Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{"id":"123"}
+Query:{"color":"black","size":"medium"}
+payload:{}
+
+2024-05-26T11:31:57.163Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{"id":"123"}
+Query:{"color":"black","size":"medium"}
+payload:{}
+
+2024-05-26T11:31:57.166Z
+INFO:Item endpoint hit with the ID: {"id":"123"}
+2024-05-26T11:33:35.672Z
+REQUEST:GET /items/123?color=black&size=medium - 
+Params:{"id":"123"}
+Query:{"color":"black","size":"medium"}
+payload:{"name":"vishvadatt update","mobile":9726999999}
+
+2024-05-26T11:33:35.672Z
+INFO:Item endpoint hit with the ID: {"id":"123"}
